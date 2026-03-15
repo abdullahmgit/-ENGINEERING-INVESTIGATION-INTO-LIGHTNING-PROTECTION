@@ -34,7 +34,7 @@ Inside a mature storm cloud, updrafts carry small water droplets and ice crystal
 
 This charge distribution creates a non-uniform electric field between cloud and ground — weakest mid-air, strongest near either charged surface, and strongest of all near any pointed object projecting from the ground.
 
-![Charge separation in a thunderstorm](images/figure1_charge_separation.png)
+figure1_charge_separation.png
 
 *Figure 1: Charge separation in a thunderstorm. The triboelectric effect builds −Q at the cloud base (~−15 C). Coulomb's Law drives the induction of mirrored +Q on the ground surface. Field lines descend through the 1200 m air gap — the potential difference across which can reach 100–1000 MV before breakdown.*
 
