@@ -255,19 +255,3 @@ The design results here — optimal tip radius, height advantage, grounding resi
 Franklin built the first lightning rod with a kite, a key, and intuition. Every rod installed since has been built — whether the installer knew it or not — with Coulomb and Gauss.
 
 ---
-
-## References
-
-1. Griffiths, D. J. (2013). *Introduction to Electrodynamics* (4th ed.). Pearson Education.
-2. Uman, M. A., & Rakov, V. A. (2002). A critical review of nonconventional approaches to lightning protection. *Bulletin of the American Meteorological Society*, 83(12), 1809–1820.
-3. IEC 62305-1:2010. *Protection Against Lightning — Part 1: General Principles.* IEC.
-4. IEC 62305-3:2010. *Protection Against Lightning — Part 3: Physical Damage to Structures and Life Hazard.* IEC.
-5. Hayt, W. H., & Buck, J. A. (2011). *Engineering Electromagnetics* (8th ed.). McGraw-Hill.
-6. Sadiku, M. N. O. (2014). *Elements of Electromagnetics* (6th ed.). Oxford University Press.
-7. Berger, K. (1967). Novel observations on lightning discharges: Results of research on Mount San Salvatore. *Journal of the Franklin Institute*, 283(6), 478–525.
-8. Cohen, I. B. (1941). *Benjamin Franklin's Experiments.* Harvard University Press.
-
----
-
-*Prepared as part of ECE coursework — Electromagnetic Theory and Transmission Lines*
-*Unit I: Coulomb's Law and Gauss's Law | Academic Year 2025–26*
