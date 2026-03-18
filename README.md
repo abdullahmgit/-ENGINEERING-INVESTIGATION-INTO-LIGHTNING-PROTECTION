@@ -13,6 +13,10 @@
 This report investigates the electrostatic principles governing lightning protection systems (LPS), with Coulomb's Law and Gauss's Law as the analytical framework. Beginning with the historical validation of these laws through Franklin's early experiments, the report progresses through charge induction mechanics, field concentration at conductor tips, design optimization of rod geometry, and a failure case study examining what happens when these laws are violated in practice. Mathematical analysis is introduced in context — not as isolated exercises, but as tools that answer specific engineering questions about why LPS works, how to make it work better, and what causes it to fail.
 
 ---
+📺 Lecture Video — Before You Read
+The following MIT lecture by Prof. Walter Lewin (8.02 Physics II) covers the exact physics in this report — high-voltage breakdown, lightning rods, corona discharge, and the Faraday cage — with live demonstrations that produce real sparks in the lecture hall. Watch this first to build visual intuition before the mathematical analysis begins.
+https://www.youtube.com/watch?v=ww0XJUqFHXU
+---
 
 ## 1. The Problem: A Building in a Storm
 
